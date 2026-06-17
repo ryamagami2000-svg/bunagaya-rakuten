@@ -1,4 +1,4 @@
-<div class="bunagaya-lp" id="bunagaya">
+<div class="bunagaya-lp">
 
   <!-- HERO -->
   <header class="hero">
@@ -18,7 +18,7 @@
       <p class="lead">やんばるの深い森には、むかしから精霊「ぶながや」が棲むといわれています。木々のざわめき、草花の香り、生きものの息づかい。内でも外でもないこの場所で、眠っていた五感が、そっとひらいていく。</p>
       <p class="lead">ちょっと冒険的。でも、ちゃんと安心できる。<br>そんな一夜の物語を、どうぞ。</p>
       <figure class="story-figure">
-        <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/38e5b2188f371dc48ecd5f13007067a0faea3168.47.9.26.3.jpg" alt="やんばるの森に抱かれた喜如嘉翔学校（空撮）">
+        <img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/38e5b2188f371dc48ecd5f13007067a0faea3168.47.9.26.3.jpg" alt="やんばるの森に抱かれた喜如嘉翔学校（空撮）">
         <figcaption class="muted">やんばるの森にいだかれた、127年の校舎。</figcaption>
       </figure>
     </div>
@@ -27,17 +27,17 @@
   <!-- 客室 -->
   <section class="sec-paper-2">
     <div class="wrap">
-      <div class="narrow reveal" style="text-align:center;">
+      <div class="narrow reveal bx-center">
         <p class="eyebrow">ROOMS ｜ 全6室</p>
         <h2 class="sec-title">おとぎ話のような、小さな部屋。</h2>
         <p class="lead">ロフト付きのコンパクトな設計。少し低い天井に頭をかがめて入れば、そこは子どものころの秘密基地のよう。全6室、それぞれに校舎の面影が残ります。</p>
       </div>
       <div class="room-gallery reveal">
-        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/0bbdd1baef2f404f05072e3754660c8c4192005c.47.9.26.3.jpg" alt="ロフト付き客室"><figcaption>ロフトのある部屋</figcaption></figure>
-        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/e32858ccb1c2868da71ec09d948561340b383f60.47.9.26.3.jpg" alt="客室1"><figcaption>客室</figcaption></figure>
-        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/1cae02e1f19a86f637d98852bb4fc7e23cbd8cfd.47.9.26.3.jpg" alt="客室2"><figcaption>窓辺のしつらえ</figcaption></figure>
-        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/be6c56805bc5560116945ab8f9daef2760607d04.47.9.26.3.jpg" alt="客室3"><figcaption>くつろぎの空間</figcaption></figure>
-        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/9354c5754179b69a46e41f602fb17e54d976c334.47.9.26.3.jpg" alt="2Fロフト"><figcaption>2Fロフト</figcaption></figure>
+        <figure><img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/0bbdd1baef2f404f05072e3754660c8c4192005c.47.9.26.3.jpg" alt="ロフト付き客室"><figcaption>ロフトのある部屋</figcaption></figure>
+        <figure><img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/e32858ccb1c2868da71ec09d948561340b383f60.47.9.26.3.jpg" alt="客室1"><figcaption>客室</figcaption></figure>
+        <figure><img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/1cae02e1f19a86f637d98852bb4fc7e23cbd8cfd.47.9.26.3.jpg" alt="客室2"><figcaption>窓辺のしつらえ</figcaption></figure>
+        <figure><img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/be6c56805bc5560116945ab8f9daef2760607d04.47.9.26.3.jpg" alt="客室3"><figcaption>くつろぎの空間</figcaption></figure>
+        <figure><img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/9354c5754179b69a46e41f602fb17e54d976c334.47.9.26.3.jpg" alt="2Fロフト"><figcaption>2Fロフト</figcaption></figure>
       </div>
     </div>
   </section>
@@ -45,14 +45,14 @@
   <!-- 食 -->
   <section class="sec-green">
     <div class="wrap">
-      <div class="narrow reveal" style="text-align:center;">
+      <div class="narrow reveal bx-center">
         <p class="eyebrow">FOOD</p>
         <h2 class="sec-title">やんばるを、いただく。</h2>
-        <p class="lead" style="color:#e9e3d2;">土の力をそのままに。森が育てた食材を、無添加で、たっぷりと。</p>
+        <p class="lead">土の力をそのままに。森が育てた食材を、無添加で、たっぷりと。</p>
       </div>
       <div class="food-grid reveal">
         <div class="food-card">
-          <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/5e3111f99f66cc5fd5adc2f88776778468b069dd.47.9.26.3.jpg" alt="やんばるの島野菜の朝食">
+          <img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/5e3111f99f66cc5fd5adc2f88776778468b069dd.47.9.26.3.jpg" alt="やんばるの島野菜の朝食">
           <div class="body">
             <p class="tag">BREAKFAST ｜ 朝食付き</p>
             <h3>島野菜の、朝ごはん。</h3>
@@ -60,7 +60,7 @@
           </div>
         </div>
         <div class="food-card">
-          <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/f7a476ceba16f6f4df1bd74f3250a4d4cc17122e.47.9.26.3.jpg" alt="星空テラスのBBQ">
+          <img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/f7a476ceba16f6f4df1bd74f3250a4d4cc17122e.47.9.26.3.jpg" alt="星空テラスのBBQ">
           <div class="body">
             <p class="tag">BBQ ｜ 要予約</p>
             <h3>星空の下で、BBQ。</h3>
@@ -68,7 +68,7 @@
           </div>
         </div>
         <div class="food-card">
-          <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/81df245cf604029879cee4cf7c2ba004bf8ed406.47.9.26.3.jpg" alt="やんばる食材の無添加オードブル">
+          <img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/81df245cf604029879cee4cf7c2ba004bf8ed406.47.9.26.3.jpg" alt="やんばる食材の無添加オードブル">
           <div class="body">
             <p class="tag">ORDER ｜ 要予約・お持ち帰り可</p>
             <h3>無添加オードブル。</h3>
@@ -82,7 +82,7 @@
   <!-- 館内・設備 -->
   <section>
     <div class="wrap">
-      <div class="narrow reveal" style="text-align:center;">
+      <div class="narrow reveal bx-center">
         <p class="eyebrow">FACILITIES</p>
         <h2 class="sec-title">館内・設備</h2>
       </div>
@@ -104,16 +104,16 @@
   <!-- テナント -->
   <section class="sec-green">
     <div class="wrap">
-      <div class="narrow reveal" style="text-align:center;">
+      <div class="narrow reveal bx-center">
         <p class="eyebrow">KIJOKA-SHO ｜ 喜如嘉翔学校</p>
         <h2 class="sec-title">ひとつ屋根の下に、14の物語。</h2>
-        <p class="lead" style="color:#e9e3d2;">校舎には、個性豊かな作り手たちが集います。泊まるだけでなく、めぐって、出会って、持ち帰る。それも、この宿の楽しみ方。</p>
+        <p class="lead">校舎には、個性豊かな作り手たちが集います。泊まるだけでなく、めぐって、出会って、持ち帰る。それも、この宿の楽しみ方。</p>
       </div>
       <div class="tenant-chips reveal">
         <span>本屋</span><span>サウナ</span><span>芭蕉布工房</span><span>陶芸・木工</span><span>ハンモック工房</span><span>そのほか続々</span>
       </div>
       <figure class="tenant-figure reveal">
-        <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/8aaa17e1d93bb218b9bf21a86c9f523b0fa7c7c9.47.9.26.3.jpg" alt="施設内のテナント地図">
+        <img src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/8aaa17e1d93bb218b9bf21a86c9f523b0fa7c7c9.47.9.26.3.jpg" alt="施設内のテナント地図">
         <figcaption>喜如嘉翔には、個性豊かなテナントが盛りだくさん。</figcaption>
       </figure>
     </div>
@@ -122,25 +122,25 @@
   <!-- プラン -->
   <section class="sec-paper-2">
     <div class="wrap">
-      <div class="narrow" style="text-align:center;margin:0 auto;">
+      <div class="narrow bx-center">
         <p class="eyebrow">PLANS</p>
         <h2 class="sec-title">泊まり方を、えらぶ。</h2>
         <p class="lead">素泊まりから、星空の下のBBQ2食付きまで。やんばるでの過ごし方に合わせて。</p>
       </div>
       <div class="plan-grid">
-        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/197784" target="_blank" rel="noopener"><span class="pt">素泊まり</span><b>自由気ままな、森ステイ</b><span class="pd">気の向くままに、やんばるの夜を過ごす。</span><span class="pl">詳細・予約 →</span></a>
-        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6343464" target="_blank" rel="noopener"><span class="pt">朝食付 ｜ 人気No.1</span><b>やんばる朝ごはん</b><span class="pd">地元の手づくりおかずが並ぶ、ほっとする朝。</span><span class="pl">詳細・予約 →</span></a>
-        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6506683" target="_blank" rel="noopener"><span class="pt">2食付 ｜ 夕食BBQ</span><b>星空バーベキュー</b><span class="pd">森の中、満天の星の下で味わうごちそう。</span><span class="pl">詳細・予約 →</span></a>
-        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6507113" target="_blank" rel="noopener"><span class="pt">2食付 ｜ 島オードブル</span><b>ゆんたく晩餐</b><span class="pd">無添加の島オードブルを囲んで、語らう夜を。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/197784"><span class="pt">素泊まり</span><b>自由気ままな、森ステイ</b><span class="pd">気の向くままに、やんばるの夜を過ごす。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6343464"><span class="pt">朝食付 ｜ 人気No.1</span><b>やんばる朝ごはん</b><span class="pd">地元の手づくりおかずが並ぶ、ほっとする朝。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6506683"><span class="pt">2食付 ｜ 夕食BBQ</span><b>星空バーベキュー</b><span class="pd">森の中、満天の星の下で味わうごちそう。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6507113"><span class="pt">2食付 ｜ 島オードブル</span><b>ゆんたく晩餐</b><span class="pd">無添加の島オードブルを囲んで、語らう夜を。</span><span class="pl">詳細・予約 →</span></a>
       </div>
-      <div class="plan-all"><a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/197784" target="_blank" rel="noopener">空室・全プランを見る</a></div>
+      <div class="plan-all"><a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/197784">空室・全プランを見る</a></div>
     </div>
   </section>
 
   <!-- アクセス・概要 -->
   <section>
     <div class="wrap">
-      <div class="narrow reveal" style="text-align:center;">
+      <div class="narrow reveal bx-center">
         <p class="eyebrow">ACCESS & INFORMATION</p>
         <h2 class="sec-title">アクセス・宿泊概要</h2>
       </div>
@@ -172,7 +172,7 @@
     <div class="wrap narrow reveal">
       <h2 class="sec-title">物語の続きは、あなたが紡ぐ。</h2>
       <p class="lead">やんばるの森が、精霊たちが、127年の校舎が、あなたを待っています。</p>
-      <a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hinfo/197784/" target="_blank" rel="noopener">空室・プランを見る</a>
+      <a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hinfo/197784/">空室・プランを見る</a>
     </div>
   </section>
 
