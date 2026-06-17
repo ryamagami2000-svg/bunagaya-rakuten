@@ -1,0 +1,272 @@
+/* =========================================================
+   BUNAGAYA  カスタムページ
+   ※ すべてのCSSは .bunagaya-lp 配下にスコープしています。
+     楽天の本文欄に貼っても、ページ全体のレイアウトを壊しません。
+   ========================================================= */
+.bunagaya-lp{
+  --green-900:#22351f;
+  --green-800:#2f4733;
+  --green-600:#4d6b4f;
+  --moss:#7d8c5c;
+  --paper:#f5f0e6;
+  --paper-2:#efe8d8;
+  --card:#fffdf8;
+  --wood:#b5704a;
+  --wood-soft:#c98c61;
+  --ink:#2c2a23;
+  --ink-soft:#5b574c;
+  --line:#ddd4c2;
+  --maxw:1040px;
+  --serif:"Yu Mincho","YuMincho","Hiragino Mincho ProN","Hiragino Mincho Pro","Noto Serif JP","HG明朝E","MS PMincho",serif;
+  --sans:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic","YuGothic","Noto Sans JP","Meiryo",sans-serif;
+
+  margin:0 auto;
+  color:var(--ink);
+  background:var(--paper);
+  font-family:var(--sans);
+  font-size:16px;
+  line-height:1.9;
+  -webkit-text-size-adjust:100%;
+  text-align:left;
+  overflow:hidden;
+}
+.bunagaya-lp *{box-sizing:border-box;}
+.bunagaya-lp img{max-width:100%;display:block;}
+.bunagaya-lp .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px;}
+.bunagaya-lp .narrow{max-width:680px;margin-left:auto;margin-right:auto;}
+
+/* ---- 見出し・テキスト共通 ---- */
+.bunagaya-lp .eyebrow{
+  font-family:var(--sans);
+  font-size:12px;letter-spacing:.28em;font-weight:600;
+  color:var(--wood);margin:0 0 14px;
+}
+.bunagaya-lp .sec-title{
+  font-family:var(--serif);
+  font-weight:600;
+  font-size:26px;line-height:1.5;letter-spacing:.04em;
+  color:var(--green-800);
+  margin:0 0 18px;
+}
+.bunagaya-lp .lead{
+  font-family:var(--serif);
+  font-size:17px;line-height:2.1;letter-spacing:.03em;
+  color:var(--ink);
+  margin:0 0 16px;
+}
+.bunagaya-lp p{margin:0 0 16px;}
+.bunagaya-lp .muted{color:var(--ink-soft);font-size:14px;line-height:1.9;}
+
+/* ---- セクション余白 ---- */
+.bunagaya-lp section{padding:64px 0;position:relative;}
+.bunagaya-lp .sec-paper-2{background:var(--paper-2);}
+.bunagaya-lp .sec-green{background:var(--green-800);color:#f3efe3;}
+.bunagaya-lp .sec-green .sec-title{color:#fff;}
+.bunagaya-lp .sec-green .eyebrow{color:var(--wood-soft);}
+
+/* リーフの区切り */
+.bunagaya-lp .leaf-divider{display:flex;align-items:center;justify-content:center;gap:14px;margin:0 0 28px;}
+.bunagaya-lp .leaf-divider .ln{height:1px;width:46px;background:var(--line);}
+.bunagaya-lp .leaf-divider svg{width:26px;height:26px;color:var(--moss);}
+
+/* =========================================================
+   HERO
+   ========================================================= */
+.bunagaya-lp .hero{
+  position:relative;
+  min-height:min(86vh,680px);
+  display:flex;align-items:flex-end;
+  background:
+    linear-gradient(180deg, rgba(20,30,18,.15) 0%, rgba(20,30,18,.10) 35%, rgba(20,30,18,.78) 100%),
+    url('https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/563291ab2620de152091446842f9cd049a26e50d.47.9.26.3.jpg') center 40%/cover no-repeat;
+  color:#fff;
+  padding:0;
+}
+.bunagaya-lp .hero .wrap{padding-bottom:52px;padding-top:52px;width:100%;}
+.bunagaya-lp .hero-eyebrow{
+  font-size:12px;letter-spacing:.34em;font-weight:600;
+  margin:0 0 18px;color:#f0e7d4;
+}
+.bunagaya-lp .hero-title{
+  font-family:var(--serif);
+  font-size:clamp(44px,13vw,86px);
+  line-height:1;letter-spacing:.14em;
+  margin:0 0 10px;font-weight:600;
+  text-shadow:0 2px 24px rgba(0,0,0,.35);
+}
+.bunagaya-lp .hero-sub{
+  font-family:var(--serif);
+  font-size:clamp(15px,4.4vw,19px);letter-spacing:.22em;
+  margin:0 0 26px;color:#f3ead6;
+}
+.bunagaya-lp .hero-catch{
+  font-family:var(--serif);
+  font-size:clamp(16px,4.6vw,21px);
+  line-height:2;letter-spacing:.05em;
+  max-width:30em;margin:0;
+  text-shadow:0 2px 18px rgba(0,0,0,.4);
+}
+
+/* =========================================================
+   物語 / イントロ
+   ========================================================= */
+.bunagaya-lp .story .sec-title{text-align:center;}
+.bunagaya-lp .story .lead{text-align:left;}
+.bunagaya-lp .story-figure{margin:36px 0 0;}
+.bunagaya-lp .story-figure img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:4px;}
+.bunagaya-lp .story-figure figcaption{margin-top:10px;text-align:center;}
+
+/* =========================================================
+   客室
+   ========================================================= */
+.bunagaya-lp .room-gallery{
+  display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:30px;
+}
+.bunagaya-lp .room-gallery figure{margin:0;}
+.bunagaya-lp .room-gallery img{
+  width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px;
+}
+.bunagaya-lp .room-gallery figure.tall img{aspect-ratio:4/3;}
+.bunagaya-lp .room-gallery figcaption{
+  font-size:12px;color:var(--ink-soft);margin-top:6px;letter-spacing:.04em;
+}
+
+/* =========================================================
+   食
+   ========================================================= */
+.bunagaya-lp .food-grid{display:grid;grid-template-columns:1fr;gap:22px;margin-top:30px;}
+.bunagaya-lp .food-card{
+  background:var(--card);border-radius:8px;overflow:hidden;
+  border:1px solid rgba(255,255,255,.08);
+  box-shadow:0 8px 30px rgba(20,30,18,.25);
+}
+.bunagaya-lp .sec-green .food-card{color:var(--ink);}
+.bunagaya-lp .food-card img{width:100%;aspect-ratio:3/2;object-fit:cover;}
+.bunagaya-lp .food-card .body{padding:20px 20px 24px;}
+.bunagaya-lp .food-card .tag{
+  font-size:11px;letter-spacing:.2em;font-weight:700;color:var(--wood);
+  margin:0 0 8px;
+}
+.bunagaya-lp .food-card h3{
+  font-family:var(--serif);font-size:19px;letter-spacing:.04em;
+  margin:0 0 10px;color:var(--green-800);font-weight:600;
+}
+.bunagaya-lp .food-card p{font-size:13.5px;line-height:1.85;color:var(--ink-soft);margin:0;}
+
+/* =========================================================
+   館内・設備
+   ========================================================= */
+.bunagaya-lp .fac-layout{display:grid;grid-template-columns:1fr;gap:26px;margin-top:28px;}
+.bunagaya-lp .fac-list{list-style:none;margin:0;padding:0;}
+.bunagaya-lp .fac-list li{
+  display:flex;gap:12px;align-items:flex-start;
+  padding:13px 0;border-bottom:1px solid var(--line);font-size:14.5px;
+}
+.bunagaya-lp .fac-list li:last-child{border-bottom:none;}
+.bunagaya-lp .fac-list .k{
+  font-family:var(--serif);color:var(--green-800);font-weight:600;
+  min-width:7.5em;letter-spacing:.04em;
+}
+.bunagaya-lp .fac-list .v{color:var(--ink-soft);flex:1;}
+.bunagaya-lp .fac-photos{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;}
+.bunagaya-lp .fac-photos img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:4px;}
+.bunagaya-lp .note-box{
+  margin-top:22px;background:var(--paper);border:1px dashed var(--moss);
+  border-radius:6px;padding:16px 18px;font-size:13px;line-height:1.8;color:var(--ink-soft);
+}
+.bunagaya-lp .note-box b{color:var(--green-800);}
+
+/* =========================================================
+   テナント
+   ========================================================= */
+.bunagaya-lp .tenant-figure{margin:30px 0 0;}
+.bunagaya-lp .tenant-figure img{width:100%;border-radius:6px;border:1px solid rgba(255,255,255,.12);}
+.bunagaya-lp .tenant-figure figcaption{margin-top:12px;text-align:center;color:#d9d2bf;font-size:13px;}
+.bunagaya-lp .tenant-chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:24px;}
+.bunagaya-lp .tenant-chips span{
+  border:1px solid rgba(255,255,255,.28);border-radius:999px;
+  padding:6px 14px;font-size:12.5px;letter-spacing:.06em;color:#eee4ce;
+}
+
+/* =========================================================
+   過ごし方
+   ========================================================= */
+.bunagaya-lp .act-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:28px;}
+.bunagaya-lp .act{
+  background:var(--card);border:1px solid var(--line);border-radius:6px;
+  padding:16px 16px;display:flex;gap:12px;align-items:center;
+}
+.bunagaya-lp .act .ic{display:flex;align-items:center;justify-content:center;width:30px;height:30px;color:var(--moss);flex:none;}
+.bunagaya-lp .act .ic svg{width:30px;height:30px;display:block;}
+.bunagaya-lp .act h3{font-family:var(--serif);font-size:15px;margin:0;color:var(--green-800);font-weight:600;letter-spacing:.03em;}
+.bunagaya-lp .season-figure{margin:34px 0 0;display:grid;grid-template-columns:1fr;gap:0;}
+.bunagaya-lp .season-figure img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:6px;}
+.bunagaya-lp .season-figure figcaption{margin-top:12px;text-align:center;}
+
+/* =========================================================
+   アクセス・概要
+   ========================================================= */
+.bunagaya-lp .info-grid{display:grid;grid-template-columns:1fr;gap:30px;margin-top:28px;}
+.bunagaya-lp .info-block h3{
+  font-family:var(--serif);font-size:18px;color:var(--green-800);
+  margin:0 0 14px;letter-spacing:.04em;font-weight:600;
+}
+.bunagaya-lp .info-table{width:100%;border-collapse:collapse;font-size:14px;}
+.bunagaya-lp .info-table th,.bunagaya-lp .info-table td{
+  text-align:left;vertical-align:top;padding:12px 4px;border-bottom:1px solid var(--line);
+}
+.bunagaya-lp .info-table th{
+  font-family:var(--serif);font-weight:600;color:var(--green-800);
+  white-space:nowrap;width:8em;letter-spacing:.04em;
+}
+.bunagaya-lp .info-table td{color:var(--ink-soft);}
+.bunagaya-lp .access-note{font-size:14px;line-height:2;color:var(--ink-soft);}
+.bunagaya-lp .access-note .addr{font-family:var(--serif);color:var(--ink);font-size:16px;}
+.bunagaya-lp .map-link{
+  display:inline-block;margin-top:8px;color:var(--wood);font-size:13px;
+  text-decoration:none;border-bottom:1px solid var(--wood);padding-bottom:2px;
+}
+
+/* =========================================================
+   CTA / フッター
+   ========================================================= */
+.bunagaya-lp .cta{
+  text-align:center;
+  background:
+    linear-gradient(180deg, rgba(20,30,18,.72), rgba(20,30,18,.82)),
+    url('https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/6605788e61f13cc5ba1a61bc481de60a6d883497.47.9.26.3.jpg') center/cover no-repeat;
+  color:#fff;
+}
+.bunagaya-lp .cta .sec-title{color:#fff;}
+.bunagaya-lp .cta .lead{color:#f1ead8;}
+.bunagaya-lp .cta-btn{
+  display:inline-block;margin-top:10px;
+  background:var(--wood);color:#fff;text-decoration:none;
+  font-family:var(--serif);font-size:16px;letter-spacing:.08em;
+  padding:15px 40px;border-radius:999px;
+  box-shadow:0 10px 26px rgba(0,0,0,.3);
+  transition:background .2s ease, transform .2s ease;
+}
+.bunagaya-lp .cta-btn:hover{background:var(--wood-soft);transform:translateY(-2px);}
+.bunagaya-lp .foot{
+  background:var(--green-900);color:#cdd3c2;text-align:center;
+  padding:34px 22px;font-size:13px;line-height:2;
+}
+.bunagaya-lp .foot .name{
+  font-family:var(--serif);font-size:18px;letter-spacing:.18em;color:#fff;margin:0 0 6px;
+}
+
+/* =========================================================
+   レスポンシブ（PC）
+   ========================================================= */
+@media(min-width:760px){
+  .bunagaya-lp{font-size:16.5px;}
+  .bunagaya-lp section{padding:88px 0;}
+  .bunagaya-lp .sec-title{font-size:32px;}
+  .bunagaya-lp .room-gallery{grid-template-columns:repeat(3,1fr);gap:12px;}
+  .bunagaya-lp .food-grid{grid-template-columns:repeat(3,1fr);}
+  .bunagaya-lp .fac-layout{grid-template-columns:1.1fr .9fr;align-items:start;gap:40px;}
+  .bunagaya-lp .act-grid{grid-template-columns:repeat(3,1fr);}
+  .bunagaya-lp .info-grid{grid-template-columns:1fr 1fr;gap:50px;}
+  .bunagaya-lp .story .lead{text-align:center;}
+}
