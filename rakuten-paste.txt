@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ryamagami2000-svg/bunagaya-rakuten@main/bunagaya.css">
+<link rel="stylesheet" href="https://ryamagami2000-svg.github.io/bunagaya-rakuten/bunagaya.css">
 <div class="bunagaya-lp" id="bunagaya">
 
   <!-- HERO -->
