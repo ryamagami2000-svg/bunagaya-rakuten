@@ -63,6 +63,9 @@
 .bunagaya-lp .sec-green{background:var(--green-800);color:#f3efe3;}
 .bunagaya-lp .sec-green .sec-title{color:#fff;}
 .bunagaya-lp .sec-green .eyebrow{color:var(--wood-soft);}
+.bunagaya-lp .sec-dark{background:#1b2a18;color:#eef0e6;}
+.bunagaya-lp .sec-dark .sec-title{color:#fff;}
+.bunagaya-lp .sec-dark .eyebrow{color:var(--wood-soft);}
 
 /* リーフの区切り */
 .bunagaya-lp .leaf-divider{display:flex;align-items:center;justify-content:center;gap:14px;margin:0 0 28px;}

@@ -29,20 +29,6 @@
     </div>
   </section>
 
-  <!-- 動画 -->
-  <section class="sec-green">
-    <div class="wrap">
-      <div class="narrow" style="text-align:center;margin:0 auto;">
-        <p class="eyebrow">MOVIE</p>
-        <h2 class="sec-title">映像で、ひとあし先に。</h2>
-        <p class="lead" style="color:#e9e3d2;">やんばるの森と校舎の空気を、ほんの少しだけ。</p>
-      </div>
-      <div class="video-wrap">
-        <iframe src="https://www.youtube-nocookie.com/embed/NaIu83N2yKM" title="BUNAGAYA 紹介動画" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-    </div>
-  </section>
-
   <!-- 客室 -->
   <section class="sec-paper-2">
     <div class="wrap">
@@ -142,6 +128,20 @@
         <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/8aaa17e1d93bb218b9bf21a86c9f523b0fa7c7c9.47.9.26.3.jpg" alt="施設内のテナント地図">
         <figcaption>喜如嘉翔には、個性豊かなテナントが盛りだくさん。</figcaption>
       </figure>
+    </div>
+  </section>
+
+  <!-- 動画 -->
+  <section class="sec-dark">
+    <div class="wrap">
+      <div class="narrow" style="text-align:center;margin:0 auto;">
+        <p class="eyebrow">MOVIE</p>
+        <h2 class="sec-title">映像で、ひとあし先に。</h2>
+        <p class="lead" style="color:#e9e3d2;">やんばるの森と校舎の空気を、ほんの少しだけ。</p>
+      </div>
+      <div class="video-wrap">
+        <iframe src="https://www.youtube-nocookie.com/embed/NaIu83N2yKM" title="BUNAGAYA 紹介動画" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
     </div>
   </section>
 
