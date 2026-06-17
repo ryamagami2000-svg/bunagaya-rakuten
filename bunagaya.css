@@ -64,10 +64,6 @@
 .bunagaya-lp .sec-green .sec-title{color:#fff;}
 .bunagaya-lp .sec-green .eyebrow{color:var(--wood-soft);}
 
-/* リーフの区切り */
-.bunagaya-lp .leaf-divider{display:flex;align-items:center;justify-content:center;gap:14px;margin:0 0 28px;}
-.bunagaya-lp .leaf-divider .ln{height:1px;width:46px;background:var(--line);}
-.bunagaya-lp .leaf-divider svg{width:26px;height:26px;color:var(--moss);}
 
 /* =========================================================
    HERO
@@ -175,9 +171,6 @@
 /* =========================================================
    テナント
    ========================================================= */
-.bunagaya-lp .tenant-figure{margin:30px 0 0;}
-.bunagaya-lp .tenant-figure img{width:100%;border-radius:6px;border:1px solid rgba(255,255,255,.12);}
-.bunagaya-lp .tenant-figure figcaption{margin-top:12px;text-align:center;color:#d9d2bf;font-size:13px;}
 .bunagaya-lp .tenant-chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:24px;}
 .bunagaya-lp .tenant-chips span{
   border:1px solid rgba(255,255,255,.28);border-radius:999px;
