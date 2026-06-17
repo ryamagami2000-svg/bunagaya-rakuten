@@ -1,2 +1,191 @@
-<style>.bunagaya-lp{--green-900:#22351f;--green-800:#2f4733;--green-600:#4d6b4f;--moss:#7d8c5c;--paper:#f5f0e6;--paper-2:#efe8d8;--card:#fffdf8;--wood:#b5704a;--wood-soft:#c98c61;--ink:#2c2a23;--ink-soft:#5b574c;--line:#ddd4c2;--maxw:1040px;--serif:"Yu Mincho","YuMincho","Hiragino Mincho ProN","Hiragino Mincho Pro","Noto Serif JP","HG明朝E","MS PMincho",serif;--sans:"Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic","YuGothic","Noto Sans JP","Meiryo",sans-serif;margin:0 auto;color:var(--ink);background:var(--paper);font-family:var(--sans);font-size:16px;line-height:1.9;-webkit-text-size-adjust:100%;text-align:left;overflow:hidden}.bunagaya-lp *{box-sizing:border-box}.bunagaya-lp img{max-width:100%;display:block}.bunagaya-lp .wrap{max-width:var(--maxw);margin:0 auto;padding:0 22px}.bunagaya-lp .narrow{max-width:680px;margin-left:auto;margin-right:auto}.bunagaya-lp .eyebrow{font-family:var(--sans);font-size:12px;letter-spacing:.28em;font-weight:600;color:var(--wood);margin:0 0 14px}.bunagaya-lp .sec-title{font-family:var(--serif);font-weight:600;font-size:26px;line-height:1.5;letter-spacing:.04em;color:var(--green-800);margin:0 0 18px}.bunagaya-lp .lead{font-family:var(--serif);font-size:17px;line-height:2.1;letter-spacing:.03em;color:var(--ink);margin:0 0 16px}.bunagaya-lp p{margin:0 0 16px}.bunagaya-lp .muted{color:var(--ink-soft);font-size:14px;line-height:1.9}.bunagaya-lp section{padding:64px 0;position:relative}.bunagaya-lp .sec-paper-2{background:var(--paper-2)}.bunagaya-lp .sec-green{background:var(--green-800);color:#f3efe3}.bunagaya-lp .sec-green .sec-title{color:#fff}.bunagaya-lp .sec-green .eyebrow{color:var(--wood-soft)}.bunagaya-lp .sec-dark{background:#1b2a18;color:#eef0e6}.bunagaya-lp .sec-dark .sec-title{color:#fff}.bunagaya-lp .sec-dark .eyebrow{color:var(--wood-soft)}.bunagaya-lp .leaf-divider{display:flex;align-items:center;justify-content:center;gap:14px;margin:0 0 28px}.bunagaya-lp .leaf-divider .ln{height:1px;width:46px;background:var(--line)}.bunagaya-lp .leaf-divider svg{width:26px;height:26px;color:var(--moss)}.bunagaya-lp .hero{position:relative;min-height:min(86vh,680px);display:flex;align-items:flex-end;background:linear-gradient(180deg,rgba(20,30,18,.15) 0%,rgba(20,30,18,.10) 35%,rgba(20,30,18,.78) 100%),url('https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/563291ab2620de152091446842f9cd049a26e50d.47.9.26.3.jpg') center 40%/cover no-repeat;color:#fff;padding:0}.bunagaya-lp .hero .wrap{padding-bottom:52px;padding-top:52px;width:100%}.bunagaya-lp .hero-eyebrow{font-size:12px;letter-spacing:.34em;font-weight:600;margin:0 0 18px;color:#f0e7d4}.bunagaya-lp .hero-title{font-family:var(--serif);font-size:clamp(44px,13vw,86px);line-height:1;letter-spacing:.14em;margin:0 0 10px;font-weight:600;text-shadow:0 2px 24px rgba(0,0,0,.35)}.bunagaya-lp .hero-sub{font-family:var(--serif);font-size:clamp(15px,4.4vw,19px);letter-spacing:.22em;margin:0 0 26px;color:#f3ead6}.bunagaya-lp .hero-catch{font-family:var(--serif);font-size:clamp(16px,4.6vw,21px);line-height:2;letter-spacing:.05em;max-width:30em;margin:0;text-shadow:0 2px 18px rgba(0,0,0,.4)}.bunagaya-lp .story .sec-title{text-align:center}.bunagaya-lp .story .lead{text-align:left}.bunagaya-lp .story-figure{margin:36px 0 0}.bunagaya-lp .story-figure img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:4px}.bunagaya-lp .story-figure figcaption{margin-top:10px;text-align:center}.bunagaya-lp .room-gallery{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:30px}.bunagaya-lp .room-gallery figure{margin:0}.bunagaya-lp .room-gallery img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px}.bunagaya-lp .room-gallery figcaption{font-size:12px;color:var(--ink-soft);margin-top:6px;letter-spacing:.04em}.bunagaya-lp .food-grid{display:grid;grid-template-columns:1fr;gap:22px;margin-top:30px}.bunagaya-lp .food-card{background:var(--card);border-radius:8px;overflow:hidden;border:1px solid rgba(255,255,255,.08);box-shadow:0 8px 30px rgba(20,30,18,.25)}.bunagaya-lp .sec-green .food-card{color:var(--ink)}.bunagaya-lp .food-card img{width:100%;aspect-ratio:3/2;object-fit:cover}.bunagaya-lp .food-card .body{padding:20px 20px 24px}.bunagaya-lp .food-card .tag{font-size:11px;letter-spacing:.2em;font-weight:700;color:var(--wood);margin:0 0 8px}.bunagaya-lp .food-card h3{font-family:var(--serif);font-size:19px;letter-spacing:.04em;margin:0 0 10px;color:var(--green-800);font-weight:600}.bunagaya-lp .food-card p{font-size:13.5px;line-height:1.85;color:var(--ink-soft);margin:0}.bunagaya-lp .fac-list{list-style:none;margin:28px 0 0;padding:0}.bunagaya-lp .fac-list li{display:flex;gap:12px;align-items:flex-start;padding:13px 0;border-bottom:1px solid var(--line);font-size:14.5px}.bunagaya-lp .fac-list li:last-child{border-bottom:none}.bunagaya-lp .fac-list .k{font-family:var(--serif);color:var(--green-800);font-weight:600;min-width:7.5em;letter-spacing:.04em}.bunagaya-lp .fac-list .v{color:var(--ink-soft);flex:1}.bunagaya-lp .note-box{margin-top:22px;background:var(--paper);border:1px dashed var(--moss);border-radius:6px;padding:16px 18px;font-size:13px;line-height:1.8;color:var(--ink-soft)}.bunagaya-lp .note-box b{color:var(--green-800)}.bunagaya-lp .tenant-figure{margin:30px 0 0}.bunagaya-lp .tenant-figure img{width:100%;border-radius:6px;border:1px solid rgba(255,255,255,.12)}.bunagaya-lp .tenant-figure figcaption{margin-top:12px;text-align:center;color:#d9d2bf;font-size:13px}.bunagaya-lp .tenant-chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:24px}.bunagaya-lp .tenant-chips span{border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:6px 14px;font-size:12.5px;letter-spacing:.06em;color:#eee4ce}.bunagaya-lp .info-grid{display:grid;grid-template-columns:1fr;gap:30px;margin-top:28px}.bunagaya-lp .info-block h3{font-family:var(--serif);font-size:18px;color:var(--green-800);margin:0 0 14px;letter-spacing:.04em;font-weight:600}.bunagaya-lp .info-table{width:100%;border-collapse:collapse;font-size:14px}.bunagaya-lp .info-table th,.bunagaya-lp .info-table td{text-align:left;vertical-align:top;padding:12px 4px;border-bottom:1px solid var(--line)}.bunagaya-lp .info-table th{font-family:var(--serif);font-weight:600;color:var(--green-800);white-space:nowrap;width:8em;letter-spacing:.04em}.bunagaya-lp .info-table td{color:var(--ink-soft)}.bunagaya-lp .access-note{font-size:14px;line-height:2;color:var(--ink-soft)}.bunagaya-lp .access-note .addr{font-family:var(--serif);color:var(--ink);font-size:16px}.bunagaya-lp .map-link{display:inline-block;margin-top:8px;color:var(--wood);font-size:13px;text-decoration:none;border-bottom:1px solid var(--wood);padding-bottom:2px}.bunagaya-lp .cta{text-align:center;background:linear-gradient(180deg,rgba(20,30,18,.72),rgba(20,30,18,.82)),url('https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/6605788e61f13cc5ba1a61bc481de60a6d883497.47.9.26.3.jpg') center/cover no-repeat;color:#fff}.bunagaya-lp .cta .sec-title{color:#fff}.bunagaya-lp .cta .lead{color:#f1ead8}.bunagaya-lp .cta-btn{display:inline-block;margin-top:10px;background:var(--wood);color:#fff;text-decoration:none;font-family:var(--serif);font-size:16px;letter-spacing:.08em;padding:15px 40px;border-radius:999px;box-shadow:0 10px 26px rgba(0,0,0,.3);transition:background .2s ease,transform .2s ease}.bunagaya-lp .cta-btn:hover{background:var(--wood-soft);transform:translateY(-2px)}.bunagaya-lp .foot{background:var(--green-900);color:#cdd3c2;text-align:center;padding:34px 22px;font-size:13px;line-height:2}.bunagaya-lp .foot .name{font-family:var(--serif);font-size:18px;letter-spacing:.18em;color:#fff;margin:0 0 6px}@media(min-width:760px){.bunagaya-lp{font-size:16.5px}.bunagaya-lp section{padding:88px 0}.bunagaya-lp .sec-title{font-size:32px}.bunagaya-lp .room-gallery{grid-template-columns:repeat(3,1fr);gap:12px}.bunagaya-lp .food-grid{grid-template-columns:repeat(3,1fr)}.bunagaya-lp .info-grid{grid-template-columns:1fr 1fr;gap:50px}.bunagaya-lp .story .lead{text-align:center}}</style>
-<div class="bunagaya-lp" id="bunagaya"><header class="hero"><div class="wrap"><p class="hero-eyebrow">沖縄・やんばる ｜ 大宜味村 喜如嘉</p><h1 class="hero-title">BUNAGAYA</h1><p class="hero-sub">— 喜如嘉翔学校の宿 —</p><p class="hero-catch">自然と物語が交わる場所で、<br>五感を研ぎ澄ます小さな旅を。</p></div></header><section class="story"><div class="wrap narrow reveal"><div class="leaf-divider"><span class="ln"></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 21c0-7 4-13 9-16-1 9-5 14-9 16z"/><path d="M12 21C7 18 3 13 2 4c5 3 9 9 10 17z"/><path d="M12 21v-7"/></svg><span class="ln"></span></div><h2 class="sec-title">127年の物語が眠る、小さな校舎へ。</h2><p class="lead">かつて子どもたちの声が響いた、喜如嘉小学校。127年の歴史を静かに閉じたこの校舎が、「寓話」をテーマにした宿として、もう一度目を覚ましました。</p><p class="lead">やんばるの深い森には、むかしから精霊「ぶながや」が棲むといわれています。木々のざわめき、草花の香り、生きものの息づかい。内でも外でもないこの場所で、眠っていた五感が、そっとひらいていく。</p><p class="lead">ちょっと冒険的。でも、ちゃんと安心できる。<br>そんな一夜の物語を、どうぞ。</p><figure class="story-figure"><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/df2e87fc1c36fe0378f5a6e8d587e70fe73978f5.47.9.26.3.jpg" alt="校舎の面影が残る客室の風景"><figcaption class="muted">校舎の面影が、いまも静かに息づいています。</figcaption></figure></div></section><section class="sec-paper-2"><div class="wrap"><div class="narrow reveal" style="text-align:center;"><p class="eyebrow">ROOMS ｜ 全6室</p><h2 class="sec-title">おとぎ話のような、小さな部屋。</h2><p class="lead">ロフト付きのコンパクトな設計。少し低い天井に頭をかがめて入れば、そこは子どものころの秘密基地のよう。全6室、それぞれに校舎の面影が残ります。</p></div><div class="room-gallery reveal"><figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/e32858ccb1c2868da71ec09d948561340b383f60.47.9.26.3.jpg" alt="客室1"><figcaption>客室</figcaption></figure><figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/1cae02e1f19a86f637d98852bb4fc7e23cbd8cfd.47.9.26.3.jpg" alt="客室2"><figcaption>窓辺のしつらえ</figcaption></figure><figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/be6c56805bc5560116945ab8f9daef2760607d04.47.9.26.3.jpg" alt="客室3"><figcaption>くつろぎの空間</figcaption></figure><figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/9354c5754179b69a46e41f602fb17e54d976c334.47.9.26.3.jpg" alt="2Fロフト"><figcaption>2Fロフト</figcaption></figure></div></div></section><section class="sec-green"><div class="wrap"><div class="narrow reveal" style="text-align:center;"><p class="eyebrow">FOOD</p><h2 class="sec-title">やんばるを、いただく。</h2><p class="lead" style="color:#e9e3d2;">土の力をそのままに。森が育てた食材を、無添加で、たっぷりと。</p></div><div class="food-grid reveal"><div class="food-card"><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/5e3111f99f66cc5fd5adc2f88776778468b069dd.47.9.26.3.jpg" alt="やんばるの島野菜の朝食"><div class="body"><p class="tag">BREAKFAST ｜ 朝食付き</p><h3>島野菜の、朝ごはん。</h3><p>やんばるで採れた島野菜をふんだんに。朝の食事処で、一日のはじまりを土の恵みから。</p></div></div><div class="food-card"><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/f7a476ceba16f6f4df1bd74f3250a4d4cc17122e.47.9.26.3.jpg" alt="星空テラスのBBQ"><div class="body"><p class="tag">BBQ ｜ 要予約</p><h3>星空の下で、BBQ。</h3><p>テナント「ふかみどり」が手がけるBBQプラン。晴れた夜のテラスには、満天の星が降りそそぎます。</p></div></div><div class="food-card"><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/81df245cf604029879cee4cf7c2ba004bf8ed406.47.9.26.3.jpg" alt="やんばる食材の無添加オードブル"><div class="body"><p class="tag">ORDER ｜ 要予約・お持ち帰り可</p><h3>無添加オードブル。</h3><p>食材の90%がやんばる産。体にやさしい無添加。家族の集まりや、ちょっと特別な日に。量が多めなのでお持ち帰りも。</p></div></div></div></div></section><section><div class="wrap"><div class="narrow reveal" style="text-align:center;"><p class="eyebrow">FACILITIES</p><h2 class="sec-title">館内・設備</h2></div><ul class="fac-list reveal"><li><span class="k">水まわり</span><span class="v">シャワー・トイレは共用。当時のものをリノベーションしているため、男女別の共用です。</span></li><li><span class="k">食事処・カフェ</span><span class="v">敷地内レストラン「ふかみどり」。やんばる食材の料理を。</span></li><li><span class="k">テラス</span><span class="v">BBQ設備つき。夜は星空を見上げて。</span></li><li><span class="k">駐車場</span><span class="v">20台・無料。</span></li><li><span class="k">客室設備</span><span class="v">Wi-Fi／冷蔵庫／エアコン／ドライヤー。</span></li><li><span class="k">おもてなし</span><span class="v">ウェルカムドリンクをご用意。</span></li></ul><div class="note-box narrow reveal"><b>環境への、小さなお願い。</b><br>歯ブラシ・ヘアブラシ・カミソリなどのアメニティは、環境への配慮からお持ち込みをおすすめしています。お忘れの際は洗面台にて1点100円でもご用意しています。</div></div></section><section class="sec-green"><div class="wrap"><div class="narrow reveal" style="text-align:center;"><p class="eyebrow">KIJOKA-SHO ｜ 喜如嘉翔学校</p><h2 class="sec-title">ひとつ屋根の下に、14の物語。</h2><p class="lead" style="color:#e9e3d2;">校舎には、個性豊かな作り手たちが集います。泊まるだけでなく、めぐって、出会って、持ち帰る。それも、この宿の楽しみ方。</p></div><div class="tenant-chips reveal"><span>本屋</span><span>サウナ</span><span>芭蕉布工房</span><span>陶芸・木工</span><span>ハンモック工房</span><span>そのほか続々</span></div><figure class="tenant-figure reveal"><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/8aaa17e1d93bb218b9bf21a86c9f523b0fa7c7c9.47.9.26.3.jpg" alt="施設内のテナント地図"><figcaption>喜如嘉翔には、個性豊かなテナントが盛りだくさん。</figcaption></figure></div></section><section class="sec-dark"><div class="wrap narrow" style="text-align:center;"><p class="eyebrow">MOVIE</p><h2 class="sec-title">映像で、ひとあし先に。</h2><p class="lead" style="color:#e9e3d2;">紹介動画「百年の夢現 — やんばるの廃校と」を公開中。<br>YouTubeで「<b>喜如嘉翔学校</b>」と検索してご覧ください。</p></div></section><section><div class="wrap"><div class="narrow reveal" style="text-align:center;"><p class="eyebrow">ACCESS & INFORMATION</p><h2 class="sec-title">アクセス・宿泊概要</h2></div><div class="info-grid reveal"><div class="info-block"><h3>アクセス</h3><p class="access-note"><span class="addr">〒905-1303<br>沖縄県国頭郡大宜味村喜如嘉2083</span><br><br>那覇空港より お車で約2時間<br>駐車場 20台・無料</p></div><div class="info-block"><h3>宿泊概要</h3><table class="info-table"><tr><th>チェックイン</th><td>15:00（最終 18:00）</td></tr><tr><th>チェックアウト</th><td>10:00</td></tr><tr><th>客室数</th><td>全6室（ロフト付きコンパクト）</td></tr><tr><th>食事</th><td>朝食付き／BBQ・オードブルは要予約</td></tr><tr><th>駐車場</th><td>20台・無料</td></tr></table></div></div></div></section><section class="cta"><div class="wrap narrow reveal"><h2 class="sec-title">物語の続きは、あなたが紡ぐ。</h2><p class="lead">やんばるの森が、精霊たちが、127年の校舎が、あなたを待っています。</p><a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hinfo/197784/" target="_blank" rel="noopener">空室・プランを見る</a></div></section><div class="foot"><p class="name">BUNAGAYA</p>喜如嘉翔学校の宿<br>沖縄県国頭郡大宜味村喜如嘉2083</div></div>
+<link rel="stylesheet" href="https://ryamagami2000-svg.github.io/bunagaya-rakuten/bunagaya.css">
+<div class="bunagaya-lp" id="bunagaya">
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="wrap">
+      <p class="hero-eyebrow">沖縄・やんばる ｜ 大宜味村 喜如嘉</p>
+      <h1 class="hero-title">BUNAGAYA</h1>
+      <p class="hero-sub">— 喜如嘉翔学校の宿 —</p>
+      <p class="hero-catch">自然と物語が交わる場所で、<br>五感を研ぎ澄ます小さな旅を。</p>
+    </div>
+  </header>
+
+  <!-- 物語 -->
+  <section class="story">
+    <div class="wrap narrow reveal">
+      <div class="leaf-divider"><span class="ln"></span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 21c0-7 4-13 9-16-1 9-5 14-9 16z"/><path d="M12 21C7 18 3 13 2 4c5 3 9 9 10 17z"/><path d="M12 21v-7"/></svg>
+        <span class="ln"></span>
+      </div>
+      <h2 class="sec-title">127年の物語が眠る、小さな校舎へ。</h2>
+      <p class="lead">かつて子どもたちの声が響いた、喜如嘉小学校。127年の歴史を静かに閉じたこの校舎が、「寓話」をテーマにした宿として、もう一度目を覚ましました。</p>
+      <p class="lead">やんばるの深い森には、むかしから精霊「ぶながや」が棲むといわれています。木々のざわめき、草花の香り、生きものの息づかい。内でも外でもないこの場所で、眠っていた五感が、そっとひらいていく。</p>
+      <p class="lead">ちょっと冒険的。でも、ちゃんと安心できる。<br>そんな一夜の物語を、どうぞ。</p>
+      <figure class="story-figure">
+        <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/38e5b2188f371dc48ecd5f13007067a0faea3168.47.9.26.3.jpg" alt="やんばるの森に抱かれた喜如嘉翔学校（空撮）">
+        <figcaption class="muted">やんばるの森にいだかれた、127年の校舎。</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- 客室 -->
+  <section class="sec-paper-2">
+    <div class="wrap">
+      <div class="narrow reveal" style="text-align:center;">
+        <p class="eyebrow">ROOMS ｜ 全6室</p>
+        <h2 class="sec-title">おとぎ話のような、小さな部屋。</h2>
+        <p class="lead">ロフト付きのコンパクトな設計。少し低い天井に頭をかがめて入れば、そこは子どものころの秘密基地のよう。全6室、それぞれに校舎の面影が残ります。</p>
+      </div>
+      <div class="room-gallery reveal">
+        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/0bbdd1baef2f404f05072e3754660c8c4192005c.47.9.26.3.jpg" alt="ロフト付き客室"><figcaption>ロフトのある部屋</figcaption></figure>
+        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/e32858ccb1c2868da71ec09d948561340b383f60.47.9.26.3.jpg" alt="客室1"><figcaption>客室</figcaption></figure>
+        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/1cae02e1f19a86f637d98852bb4fc7e23cbd8cfd.47.9.26.3.jpg" alt="客室2"><figcaption>窓辺のしつらえ</figcaption></figure>
+        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/be6c56805bc5560116945ab8f9daef2760607d04.47.9.26.3.jpg" alt="客室3"><figcaption>くつろぎの空間</figcaption></figure>
+        <figure><img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/9354c5754179b69a46e41f602fb17e54d976c334.47.9.26.3.jpg" alt="2Fロフト"><figcaption>2Fロフト</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- 食 -->
+  <section class="sec-green">
+    <div class="wrap">
+      <div class="narrow reveal" style="text-align:center;">
+        <p class="eyebrow">FOOD</p>
+        <h2 class="sec-title">やんばるを、いただく。</h2>
+        <p class="lead" style="color:#e9e3d2;">土の力をそのままに。森が育てた食材を、無添加で、たっぷりと。</p>
+      </div>
+      <div class="food-grid reveal">
+        <div class="food-card">
+          <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/5e3111f99f66cc5fd5adc2f88776778468b069dd.47.9.26.3.jpg" alt="やんばるの島野菜の朝食">
+          <div class="body">
+            <p class="tag">BREAKFAST ｜ 朝食付き</p>
+            <h3>島野菜の、朝ごはん。</h3>
+            <p>やんばるで採れた島野菜をふんだんに。朝の食事処で、一日のはじまりを土の恵みから。</p>
+          </div>
+        </div>
+        <div class="food-card">
+          <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/f7a476ceba16f6f4df1bd74f3250a4d4cc17122e.47.9.26.3.jpg" alt="星空テラスのBBQ">
+          <div class="body">
+            <p class="tag">BBQ ｜ 要予約</p>
+            <h3>星空の下で、BBQ。</h3>
+            <p>テナント「ふかみどり」が手がけるBBQプラン。晴れた夜のテラスには、満天の星が降りそそぎます。</p>
+          </div>
+        </div>
+        <div class="food-card">
+          <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/81df245cf604029879cee4cf7c2ba004bf8ed406.47.9.26.3.jpg" alt="やんばる食材の無添加オードブル">
+          <div class="body">
+            <p class="tag">ORDER ｜ 要予約・お持ち帰り可</p>
+            <h3>無添加オードブル。</h3>
+            <p>食材の90%がやんばる産。体にやさしい無添加。家族の集まりや、ちょっと特別な日に。量が多めなのでお持ち帰りも。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 館内・設備 -->
+  <section>
+    <div class="wrap">
+      <div class="narrow reveal" style="text-align:center;">
+        <p class="eyebrow">FACILITIES</p>
+        <h2 class="sec-title">館内・設備</h2>
+      </div>
+      <ul class="fac-list reveal">
+        <li><span class="k">水まわり</span><span class="v">シャワー・トイレは共用。当時のものをリノベーションしているため、男女別の共用です。</span></li>
+        <li><span class="k">食事処・カフェ</span><span class="v">敷地内レストラン「ふかみどり」。やんばる食材の料理を。</span></li>
+        <li><span class="k">テラス</span><span class="v">BBQ設備つき。夜は星空を見上げて。</span></li>
+        <li><span class="k">駐車場</span><span class="v">20台・無料。</span></li>
+        <li><span class="k">客室設備</span><span class="v">Wi-Fi／冷蔵庫／エアコン／ドライヤー。</span></li>
+        <li><span class="k">おもてなし</span><span class="v">ウェルカムドリンクをご用意。</span></li>
+      </ul>
+      <div class="note-box narrow reveal">
+        <b>環境への、小さなお願い。</b><br>
+        歯ブラシ・ヘアブラシ・カミソリなどのアメニティは、環境への配慮からお持ち込みをおすすめしています。お忘れの際は洗面台にて1点100円でもご用意しています。
+      </div>
+    </div>
+  </section>
+
+  <!-- テナント -->
+  <section class="sec-green">
+    <div class="wrap">
+      <div class="narrow reveal" style="text-align:center;">
+        <p class="eyebrow">KIJOKA-SHO ｜ 喜如嘉翔学校</p>
+        <h2 class="sec-title">ひとつ屋根の下に、14の物語。</h2>
+        <p class="lead" style="color:#e9e3d2;">校舎には、個性豊かな作り手たちが集います。泊まるだけでなく、めぐって、出会って、持ち帰る。それも、この宿の楽しみ方。</p>
+      </div>
+      <div class="tenant-chips reveal">
+        <span>本屋</span><span>サウナ</span><span>芭蕉布工房</span><span>陶芸・木工</span><span>ハンモック工房</span><span>そのほか続々</span>
+      </div>
+      <figure class="tenant-figure reveal">
+        <img loading="lazy" src="https://img.travel.rakuten.co.jp/share/image_up/197784/LARGE/8aaa17e1d93bb218b9bf21a86c9f523b0fa7c7c9.47.9.26.3.jpg" alt="施設内のテナント地図">
+        <figcaption>喜如嘉翔には、個性豊かなテナントが盛りだくさん。</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- プラン -->
+  <section class="sec-paper-2">
+    <div class="wrap">
+      <div class="narrow" style="text-align:center;margin:0 auto;">
+        <p class="eyebrow">PLANS</p>
+        <h2 class="sec-title">泊まり方を、えらぶ。</h2>
+        <p class="lead">素泊まりから、星空の下のBBQ2食付きまで。やんばるでの過ごし方に合わせて。</p>
+      </div>
+      <div class="plan-grid">
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/197784" target="_blank" rel="noopener"><span class="pt">素泊まり</span><b>自由気ままな、森ステイ</b><span class="pd">気の向くままに、やんばるの夜を過ごす。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6343464" target="_blank" rel="noopener"><span class="pt">朝食付 ｜ 人気No.1</span><b>やんばる朝ごはん</b><span class="pd">地元の手づくりおかずが並ぶ、ほっとする朝。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6506683" target="_blank" rel="noopener"><span class="pt">2食付 ｜ 夕食BBQ</span><b>星空バーベキュー</b><span class="pd">森の中、満天の星の下で味わうごちそう。</span><span class="pl">詳細・予約 →</span></a>
+        <a class="plan-card" href="https://hotel.travel.rakuten.co.jp/PLAN/197784/6507113" target="_blank" rel="noopener"><span class="pt">2食付 ｜ 島オードブル</span><b>ゆんたく晩餐</b><span class="pd">無添加の島オードブルを囲んで、語らう夜を。</span><span class="pl">詳細・予約 →</span></a>
+      </div>
+      <div class="plan-all"><a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hotelinfo/plan/197784" target="_blank" rel="noopener">空室・全プランを見る</a></div>
+    </div>
+  </section>
+
+  <!-- アクセス・概要 -->
+  <section>
+    <div class="wrap">
+      <div class="narrow reveal" style="text-align:center;">
+        <p class="eyebrow">ACCESS & INFORMATION</p>
+        <h2 class="sec-title">アクセス・宿泊概要</h2>
+      </div>
+      <div class="info-grid reveal">
+        <div class="info-block">
+          <h3>アクセス</h3>
+          <p class="access-note">
+            <span class="addr">〒905-1303<br>沖縄県国頭郡大宜味村喜如嘉2083</span><br><br>
+            那覇空港より お車で約2時間<br>
+            駐車場 20台・無料
+          </p>
+        </div>
+        <div class="info-block">
+          <h3>宿泊概要</h3>
+          <table class="info-table">
+            <tr><th>チェックイン</th><td>15:00（最終 18:00）</td></tr>
+            <tr><th>チェックアウト</th><td>10:00</td></tr>
+            <tr><th>客室数</th><td>全6室（ロフト付きコンパクト）</td></tr>
+            <tr><th>食事</th><td>朝食付き／BBQ・オードブルは要予約</td></tr>
+            <tr><th>駐車場</th><td>20台・無料</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta">
+    <div class="wrap narrow reveal">
+      <h2 class="sec-title">物語の続きは、あなたが紡ぐ。</h2>
+      <p class="lead">やんばるの森が、精霊たちが、127年の校舎が、あなたを待っています。</p>
+      <a class="cta-btn" href="https://hotel.travel.rakuten.co.jp/hinfo/197784/" target="_blank" rel="noopener">空室・プランを見る</a>
+    </div>
+  </section>
+
+  <!-- フッター -->
+  <div class="foot">
+    <p class="name">BUNAGAYA</p>
+    喜如嘉翔学校の宿<br>
+    沖縄県国頭郡大宜味村喜如嘉2083
+  </div>
+
+</div>
